@@ -1,7 +1,4 @@
 ![MasterHead](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
-# 💫 About Me:
-🔭 I’m currently working on [nutrition analyser](https://github.com/GiteshKambli/nutrition_analyser)<br><br>🌱 I’m currently learning **GANs**<br><br>📫 How to reach me **gkambli2002@gmail.com**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gitesh-kambli) 
